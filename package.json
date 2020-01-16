@@ -1,0 +1,26 @@
+{
+  "name": "time-format",
+  "version": "1.0.0",
+  "description": "time format",
+  "main": "src/index.js",
+  "scripts": {
+    "pretest": "node test/test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/1710797241/time-format.git"
+  },
+  "keywords": [
+    "moment"
+  ],
+  "author": "jiaoren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1710797241/time-format/issues"
+  },
+  "homepage": "https://github.com/1710797241/time-format#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
